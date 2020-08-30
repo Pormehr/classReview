@@ -1,0 +1,15 @@
+{
+    "name": "paradise/class-review",
+    "authors": [
+        {
+            "name": "Pormehr",
+            "email": "pormehriust@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Robot\\": "RobotClasses"
+        }
+    },
+    "require": {}
+}
